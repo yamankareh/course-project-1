@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    height: 100vh;
+    background-image: url(images/image1.jpg);
+    background-size: 50% 50%;
+    background-repeat: repeat;
+}
+.container{
+    background-color: white;
+    padding: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
